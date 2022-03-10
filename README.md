@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Cathal Donohoe and im a Full Stack Developer for KudosHealth. Imfrom Ireland, and am living in Sligo. you can find me on 
+My name is Cathal Donohoe and im a Full Stack Developer for KudosHealth. Im from Ireland, and am living in Sligo. you can find me on 
 
 - 🔭 I’m currently working on an application for IOS and Android along with an Angular website for a start up called KudosHealth.
 - 🌱 I’m currently learning AWS skills along with improving skills from college.
