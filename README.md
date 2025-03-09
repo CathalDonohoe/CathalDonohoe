@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Cathal Donohoe and im a Software Engineer for Global Logic. Im from Ireland, and am living in Sligo. 
+My name is Cathal Donohoe and im a Senior Software Engineer for Global Logic. Im from Ireland, and am living in Sligo. 
 
 - 🔭 I’m currently working on automation frameworks for Global Logic.
 - 🌱 I’m currently learning Cyber Security and Software Design skills along with improving skills from college.
